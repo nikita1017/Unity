@@ -1,0 +1,15 @@
+
+		a{ 
+			background: #42aaff;
+			position: absolute;
+			left: 50%;
+            border-radius: 8px;
+            text-decoration: none;
+			bottom: 50%;
+			transform: translate( -50%, -50%);
+            
+		}
+		body{
+			background: url();
+		}
+	
